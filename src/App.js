@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Visit Site
+          Visit Site
         </a>
       </header>
     </div>
